@@ -1,4 +1,4 @@
-package academy.devdojo.maratonaJava.introduce;
+package introduce;
 
 public class Aula01OlaDevDojo
 {

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonaJava.introduce;
+package introduce;
 
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
@@ -8,5 +8,8 @@ public class Aula02TiposPrimitivos {
         int age = 10;
         System.out.println(age);
 
+        String nome = "neris ";
+
+        System.out.println(nome);
     }
 }
